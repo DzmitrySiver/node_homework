@@ -18,7 +18,11 @@
     "serve-favicon": "~2.4.2",
     "chokidar": "^1.7.0",
     "csv-parse": "^1.2.3",
-    "promisify-node": "0.4.0"
+    "promisify-node": "0.4.0",
+    "minimist": "^1.2.0",
+    "through2": "^2.0.3",
+    "request": "^2.83.0",
+    "combine-streams": "^1.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
